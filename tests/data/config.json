@@ -5,11 +5,11 @@
     "client_id": "cid",
     "client_secret": "csec",
     "co2_signal_api": null,
-    "country_code": "FR",
+    "country_code": "DE",
     "customer_id": "AP-ACNT1234",
     "proxies": null,
     "realm": "clientsB2CPeugeot",
     "refresh_token": "aasds-aaa",
     "remote_refresh_token": "aa",
-    "weather_api": null
+    "weather_api": d0faab70c0ac3decd4d324a3cd27403a
 }
